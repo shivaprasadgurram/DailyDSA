@@ -1,5 +1,5 @@
 # DailyDSA
-This repository consists the solutions for daily solved DSA questions from #DailyDSAWithSPG challenge.
+This repository consists the solutions of daily solved DSA questions from #DailyDSAWithSPG challenge.
 
 My Goal: Solve at least one problem daily to keep away from interview fear, unemployement and to become a good problem solver.
 
