@@ -1,6 +1,6 @@
 package com.shivaprasad.datastructures;
 
-public class InsertAndDeleteOperations {
+public class LinkedListInsertAndDeleteOperations {
     static Node head;
 
     static class Node
@@ -173,7 +173,7 @@ public class InsertAndDeleteOperations {
             currNode = node;
         }
 
-        InsertAndDeleteOperations obj = new InsertAndDeleteOperations();
+        LinkedListInsertAndDeleteOperations obj = new LinkedListInsertAndDeleteOperations();
         System.out.println("Original Linked List  "  + " Size:  "+obj.size());
         obj.display();
 
