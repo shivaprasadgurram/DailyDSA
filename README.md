@@ -20,12 +20,18 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 6 |  06/01/2021 | Array | Easy ✅  | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) <br/> [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day6/MoveZeroes.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day6/ShuffleTheArray.java) |  |
 | 7 |  07/01/2021 | Array | Easy ✅ | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) <br/> [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day7/MergeSortedArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day7/RemoveDuplicatesFromSortedArray.java) |  |
 | 8 |  08/01/2021 | Linked List | Easy ✅ | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) <br/> [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day8/ConvertBinaryNumberInALinkedListToInteger.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day8/DeleteNodeInALinkedList.java) |  |
-| 9 |  09/01/2021 |  |   |  |  |  |
+| 9 |  09/01/2021 | Linked List | Easy ✅,Medium 🟧 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) <br/> [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) <br/> [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/AddTwoNumbers.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/RemoveNthNodeFromEndOfList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/ReverseLinkedList.java) |  |
 | 10 |  10/01/2021 |  |   |  |  |  |
 | 11 |  11/01/2021 |  |   |  |  |  |
 | 12 |  12/01/2021 |  |   |  |  |  |
 | 13 |  13/01/2021 |  |   |  |  |  |
 | 14 |  14/01/2021 |  |   |  |  |  |
 | 15 |  15/01/2021 |  |   |  |  |  |
+| 16 |  16/01/2021 |  |   |  |  |  |
+| 17 |  17/01/2021 |  |   |  |  |  |
+| 18 |  18/01/2021 |  |   |  |  |  |
+| 19 |  19/01/2021 |  |   |  |  |  |
+| 20 |  20/01/2021 |  |   |  |  |  |
+| 21 |  21/01/2021 |  |   |  |  |  |
 
 
