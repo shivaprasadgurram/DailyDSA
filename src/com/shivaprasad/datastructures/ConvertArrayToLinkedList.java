@@ -1,6 +1,6 @@
 package com.shivaprasad.datastructures;
 
-public class ArrayToLinkedList {
+public class ConvertArrayToLinkedList {
     static Node head;
 
     static class Node
@@ -43,7 +43,7 @@ public class ArrayToLinkedList {
             currNode = node;
         }
 
-        ArrayToLinkedList obj = new ArrayToLinkedList();
+        ConvertArrayToLinkedList obj = new ConvertArrayToLinkedList();
         obj.display();
     }
 }
