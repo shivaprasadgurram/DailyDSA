@@ -1,7 +1,7 @@
 # DailyDSA
 This repository consists the solutions of daily solved DSA questions from #DailyDSAWithSPG challenge.
 
-My Goal: Solve at least one problem daily to keep away from interview fear, unemployement and to become a good problem solver.
+Goal: Solve at least one problem in a day to keep away from interview fear, unemployement and to become a good problem solver.
 
 My solutions are coded in JAVA language.
 
@@ -22,7 +22,7 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 8 |  08/01/2021 | Linked List | Easy ✅ | [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/) <br/> [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day8/ConvertBinaryNumberInALinkedListToInteger.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day8/DeleteNodeInALinkedList.java) |  |
 | 9 |  09/01/2021 | Linked List | Easy ✅, Medium 🟧 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) <br/> [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) <br/> [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/AddTwoNumbers.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/RemoveNthNodeFromEndOfList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day9/ReverseLinkedList.java) |  |
 | 10 |  10/01/2021 | Linked List | Easy ✅, Medium 🟧 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) <br/> [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day10/DesignLinkedList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day10/MergeTwoSortedLists.java) |  |
-| 11 |  11/01/2021 |  |   |  |  |  |
+| 11 |  11/01/2021 | Linked List | Medium 🟧 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) <br/> [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day11/RemoveDuplicatesFromSortedListII.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day11/DeleteTheMiddleNodeOfALinkedList.java) |  |
 | 12 |  12/01/2021 |  |   |  |  |  |
 | 13 |  13/01/2021 |  |   |  |  |  |
 | 14 |  14/01/2021 |  |   |  |  |  |
