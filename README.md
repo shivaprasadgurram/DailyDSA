@@ -25,7 +25,7 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 11 |  11/01/2021 | Linked List | Medium 🟧 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) <br/> [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day11/RemoveDuplicatesFromSortedListII.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day11/DeleteTheMiddleNodeOfALinkedList.java) |  |
 | 12 |  12/01/2021 | Linked List | Easy ✅, Medium 🟧 | [Rotate List](https://leetcode.com/problems/rotate-list/) <br/> [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day12/RotateList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day12/IntersectionOfTwoLinkedLists.java) |  |
 | 13 |  13/01/2021 | Linked List | Easy ✅ | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day13/LinkedListCycle.java) |  |
-| 14 |  14/01/2021 |  |   |  |  |  |
+| 14 |  14/01/2021 | Linked List | Medium 🟧 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day14/LinkedListCycleII.java) |  |
 | 15 |  15/01/2021 |  |   |  |  |  |
 | 16 |  16/01/2021 |  |   |  |  |  |
 | 17 |  17/01/2021 |  |   |  |  |  |
