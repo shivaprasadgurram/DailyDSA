@@ -29,9 +29,12 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 15 |  15/01/2021 | Linked List | Easy ✅ | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) <br/> [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day15/PalindromeLinkedList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day15/RemoveLinkedListElements.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day15/RemoveLinkedListElementsII.java) |
 | 16 |  16/01/2021 | Linked List | Medium 🟧,Easy ✅ | [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/) <br/> [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) <br/> [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day16/SwappingNodesInALinkedList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day16/RemoveDuplicatesFromSortedList.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day16/ReverseLinkedListII.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day16/RemoveDuplicatesFromSortedListUsingDummyNode.java) |
 | 17 |  17/01/2021 | Linked List | Medium 🟧 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day17/OddEvenLinkedList.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day17/OddEvenLinkedListWithoutExtraSpace.java) |
-| 18 |  18/01/2021 |  |   |  |  |  |
+| 18 |  18/01/2021 | Linked List | Medium 🟧 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day18/SwapNodesInPairs.java)  |  |
 | 19 |  19/01/2021 |  |   |  |  |  |
 | 20 |  20/01/2021 |  |   |  |  |  |
 | 21 |  21/01/2021 |  |   |  |  |  |
+| 22 |  22/01/2021 |  |   |  |  |  |
+| 23 |  23/01/2021 |  |   |  |  |  |
+| 24 |  24/01/2021 |  |   |  |  |  |
 
 
