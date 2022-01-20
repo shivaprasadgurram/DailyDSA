@@ -31,7 +31,7 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 17 |  17/01/2021 | Linked List | Medium 🟧 | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day17/OddEvenLinkedList.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day17/OddEvenLinkedListWithoutExtraSpace.java) |
 | 18 |  18/01/2021 | Linked List | Medium 🟧 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day18/SwapNodesInPairs.java)  |  |
 | 19 |  19/01/2021 | Linked List | Medium 🟧 | [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) <br/> [Remove loop in Linked List](https://practice.geeksforgeeks.org/problems/remove-loop-in-linked-list/1#) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day19/CopyListWithRandomPointer.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day19/RemoveLoop.java) |  |
-| 20 |  20/01/2021 |  |   |  |  |  |
+| 20 |  20/01/2021 | Linked List | Hard 🟥 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day20/ReverseNodesInKGroup.java) |  |
 | 21 |  21/01/2021 |  |   |  |  |  |
 | 22 |  22/01/2021 |  |   |  |  |  |
 | 23 |  23/01/2021 |  |   |  |  |  |
