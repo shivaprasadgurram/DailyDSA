@@ -38,7 +38,9 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 24 |  24/01/2021 | Recursion | Easy ✅,Medium 🟧 | [Subsets](https://leetcode.com/problems/subsets/) <br/> [Reverse String](https://leetcode.com/problems/reverse-string/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day24/Subsets.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day24/ReverseString.java) |  |
 | 25 |  25/01/2021 | Recursion | Medium 🟧 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day25/PowXN.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day25/PowXN1.java) |
 | 26 |  26/01/2021 | Recursion | Medium 🟧 | [Permutations](https://leetcode.com/problems/permutations/) <br/> [Permutations - String](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?topList=top-recursion-and-backtracking-interview-questions&leftPanelTab=0) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day26/PermutationsArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day26/PermutationsString.java) |  |
-| 27 |  27/01/2021 |  |   |  |  |  |
+| 27 |  27/01/2021 | Recursion | Medium 🟧 | [Decode String](https://leetcode.com/problems/decode-string/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day27/DecodeString.java) |  |
 | 28 |  28/01/2021 |  |   |  |  |  |
-
+| 29 |  29/01/2021 |  |   |  |  |  |
+| 30 |  30/01/2021 |  |   |  |  |  |
+| 31 |  31/01/2021 |  |   |  |  |  |
 
