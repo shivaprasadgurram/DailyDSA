@@ -39,8 +39,8 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 25 |  25/01/2021 | Recursion | Medium 🟧 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day25/PowXN.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day25/PowXN1.java) |
 | 26 |  26/01/2021 | Recursion | Medium 🟧 | [Permutations](https://leetcode.com/problems/permutations/) <br/> [Permutations - String](https://www.codingninjas.com/codestudio/problems/print-permutations-string_758958?topList=top-recursion-and-backtracking-interview-questions&leftPanelTab=0) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day26/PermutationsArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day26/PermutationsString.java) |  |
 | 27 |  27/01/2021 | Recursion | Medium 🟧 | [Decode String](https://leetcode.com/problems/decode-string/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day27/DecodeString.java) |  |
-| 28 |  28/01/2021 | Due to Covid-19 Symptoms, Not solved a problem today. | NA | NA | NA | NA |
-| 29 |  29/01/2021 |  |   |  |  |  |
+| 28 |  28/01/2021 | Due to mild Covid-19 Symptoms, Not solved a problem | NA | NA | NA | NA |
+| 29 |  29/01/2021 | Recursion | Medium 🟧,Easy ✅ | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) <br/> [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day29/KthSymbolInGrammar.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day29/CheckIfArrayIsSorted.java) |  |
 | 30 |  30/01/2021 |  |   |  |  |  |
 | 31 |  31/01/2021 |  |   |  |  |  |
 
