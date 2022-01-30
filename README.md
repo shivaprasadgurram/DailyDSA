@@ -41,6 +41,6 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 27 |  27/01/2021 | Recursion | Medium 🟧 | [Decode String](https://leetcode.com/problems/decode-string/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day27/DecodeString.java) |  |
 | 28 |  28/01/2021 | Due to health issue, Not solved a problem | NA | NA | NA | NA |
 | 29 |  29/01/2021 | Recursion | Medium 🟧,Easy ✅ | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) <br/> [Check if array is sorted](https://practice.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day29/KthSymbolInGrammar.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day29/CheckIfArrayIsSorted.java) |  |
-| 30 |  30/01/2021 |  |   |  |  |  |
+| 30 |  30/01/2021 | Recursion & BT | Medium 🟧 | [Combinations](https://leetcode.com/problems/combinations/) <br/> [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day30/Combinations.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/january/day30/CombinationSum.java) |  |
 | 31 |  31/01/2021 |  |   |  |  |  |
 
