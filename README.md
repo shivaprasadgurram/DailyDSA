@@ -47,6 +47,6 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 # February 2022
 | Day | Date       | Topic(s) | Difficulty | Problem(s)  | Solution 1 | Solution 2 |
 | --- |:----------:| -----:| ----------:| -----------:| ----------:| ----------:|
-| 32 |  01/02/2021 | Recursion | Easy ✅ | [Min & Max Element of an array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/) <br/> [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/MinAndMaxElementInArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/RemoveLinkedListElements.java) |  |
+| 32 |  01/02/2021 | Recursion | Easy ✅ | [Min & Max Element of an Array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/) <br/> [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/MinAndMaxElementInArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/RemoveLinkedListElements.java) |  |
 | 33 |  02/02/2021 |  |   |  |  |  |
 
