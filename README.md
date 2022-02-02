@@ -48,5 +48,9 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | Day | Date       | Topic(s) | Difficulty | Problem(s)  | Solution 1 | Solution 2 |
 | --- |:----------:| -----:| ----------:| -----------:| ----------:| ----------:|
 | 32 |  01/02/2021 | Recursion | Easy ✅ | [Min & Max Element of an Array](https://www.geeksforgeeks.org/program-find-minimum-maximum-element-array/) <br/> [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/MinAndMaxElementInArray.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day32/RemoveLinkedListElements.java) |  |
-| 33 |  02/02/2021 |  |   |  |  |  |
+| 33 |  02/02/2021 | Recursion & BT | Medium 🟧 | [Rat in a Maze Problem - I](https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day33/RatInAMazeI.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day33/RatInAMazeIWay2.java) |
+| 34 |  03/02/2021 | Recursion & BT |  |  |  |  |
+| 35 |  04/02/2021 | Recursion & BT |  |  |  |  |
+| 36 |  05/02/2021 |  |  |  |  |  |
+| 37 |  06/02/2021 |  |  |  |  |  |
 
