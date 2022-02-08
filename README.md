@@ -54,6 +54,9 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 36 |  05/02/2021 | Dynamic Programming | Easy ✅ | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) <br/> [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) <br/> [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day36/ClimbingStairs.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day36/FibonacciNumberUsingMemoization.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day36/NthTribonacciNumberUsingMemoization.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day36/FibonacciNumberUsingTabulation.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day36/NthTribonacciNumberUsingTabulation.java) |
 | 37 |  06/02/2021 | Dynamic Programming | Easy ✅ | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day37/MinCostClimbingStairs.java) |  |
 | 38 |  07/02/2021 | Dynamic Programming | Medium 🟧 | [House Robber](https://leetcode.com/problems/house-robber/) <br/> [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day38/HouseRobber.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day38/HouseRobberII.java) |  |
-| 39 |  08/02/2021 |  |  |  |  |  |
+| 39 |  08/02/2021 | Dynamic Programming | Medium 🟧 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day39/TargetSum.java) |  |
 | 40 |  09/02/2021 |  |  |  |  |  |
+| 41 |  10/02/2021 |  |  |  |  |  |
+| 42 |  11/02/2021 |  |  |  |  |  |
+| 43 |  12/02/2021 |  |  |  |  |  |
 
