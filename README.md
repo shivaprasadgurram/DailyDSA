@@ -56,7 +56,7 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 38 |  07/02/2021 | Dynamic Programming | Medium 🟧 | [House Robber](https://leetcode.com/problems/house-robber/) <br/> [House Robber II](https://leetcode.com/problems/house-robber-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day38/HouseRobber.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day38/HouseRobberII.java) |  |
 | 39 |  08/02/2021 | Dynamic Programming | Medium 🟧 | [Target Sum](https://leetcode.com/problems/target-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day39/TargetSum.java) |  |
 | 40 |  09/02/2021 | Dynamic Programming | Medium 🟧 | [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day40/ZeroOneKnapSack.java) |  |
-| 41 |  10/02/2021 |  |  |  |  |  |
+| 41 |  10/02/2021 | Dynamic Programming | Medium 🟧 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day41/PartitionEqualSubsetSum.java) |  |
 | 42 |  11/02/2021 |  |  |  |  |  |
 | 43 |  12/02/2021 |  |  |  |  |  |
 
