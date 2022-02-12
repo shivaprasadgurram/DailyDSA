@@ -58,5 +58,7 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 40 |  09/02/2021 | Dynamic Programming | Medium 🟧 | [0-1 Knapsack](https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem0945/1) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day40/ZeroOneKnapSack.java) |  |
 | 41 |  10/02/2021 | Dynamic Programming | Medium 🟧 | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day41/PartitionEqualSubsetSum.java) |  |
 | 42 |  11/02/2021 | Dynamic Programming | Medium 🟧 | [Coin Change](https://leetcode.com/problems/coin-change/) <br/> [Coin Change 2](https://leetcode.com/problems/coin-change-2/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day42/CoinChange.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day42/CoinChangeII.java) |  |
-| 43 |  12/02/2021 |  |  |  |  |  |
+| 43 |  12/02/2021 | Dynamic Programming | Easy ✅ | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day43/PascalsTriangle.java) |  |
+| 44 |  13/02/2021 |  |  |  |  |  |
+| 45 |  14/02/2021 |  |  |  |  |  |
 
