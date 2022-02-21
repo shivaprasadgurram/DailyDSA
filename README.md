@@ -67,4 +67,6 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 49 |  18/02/2021 | Dynamic Programming | Medium 🟧 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day49/UniquePathsII.java) |  |
 | 50 |  19/02/2021 | Dynamic Programming | Easy ✅ | [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day50/ReachAGivenScore.java) |  |
 | 51 |  20/02/2021 | Dynamic Programming | Easy ✅ | [Nth catalan number](https://practice.geeksforgeeks.org/problems/nth-catalan-number0817/1) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day51/NthCatalanNumber.java) |  |
-| 52 |  21/02/2021 |  |  |  |  |  |
+| 52 |  21/02/2021 | Dynamic Programming | Medium 🟧 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day52/UniqueBST.java) |  |
+| 53 |  22/02/2021 |  |  |  |  |  |
+| 54 |  23/02/2021 |  |  |  |  |  |
