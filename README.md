@@ -70,5 +70,5 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 52 |  21/02/2021 | Dynamic Programming | Medium 🟧 | [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day52/UniqueBST.java) |  |
 | 53 |  22/02/2021 | Dynamic Programming | Medium 🟧 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day53/DeleteAndEarn.java) |  |
 | 54 |  23/02/2021 | Dynamic Programming | Easy ✅ | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day54/CountingBits.java) |  |
-| 55 |  24/02/2021 |  |  |  |  |  |
+| 55 |  24/02/2021 | Dynamic Programming | Easy ✅ | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day55/PascalsTraingleII.java) |  |
 | 56 |  25/02/2021 |  |  |  |  |  |
