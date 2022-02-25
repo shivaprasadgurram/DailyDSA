@@ -71,4 +71,6 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 53 |  22/02/2021 | Dynamic Programming | Medium 🟧 | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day53/DeleteAndEarn.java) |  |
 | 54 |  23/02/2021 | Dynamic Programming | Easy ✅ | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day54/CountingBits.java) |  |
 | 55 |  24/02/2021 | Dynamic Programming | Easy ✅ | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day55/PascalsTraingleII.java) |  |
-| 56 |  25/02/2021 |  |  |  |  |  |
+| 56 |  25/02/2021 | Dynamic Programming | Medium 🟧 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1#) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day56/MaximumPathSumInMatrix.java) |  |
+| 57 |  26/02/2021 |  |  |  |  |  |
+| 58 |  27/02/2021 |  |  |  |  |  |
