@@ -5,7 +5,7 @@ Goal: Solve at least one problem in a day to keep away from interview fear, unem
 
 My solutions are coded in JAVA language.
 
-Journey started on 1-JAN-2022 🎯 🎯 🎯
+Challenge started on 1-JAN-2022 🎯 🎯 🎯
 
 # JANUARY 2022
 
@@ -72,5 +72,6 @@ Journey started on 1-JAN-2022 🎯 🎯 🎯
 | 54 |  23/02/2021 | Dynamic Programming | Easy ✅ | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day54/CountingBits.java) |  |
 | 55 |  24/02/2021 | Dynamic Programming | Easy ✅ | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day55/PascalsTraingleII.java) |  |
 | 56 |  25/02/2021 | Dynamic Programming | Medium 🟧 | [Maximum path sum in matrix](https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1#) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day56/MaximumPathSumInMatrix.java) |  |
-| 57 |  26/02/2021 |  |  |  |  |  |
+| 57 |  26/02/2021 | HashMap | Easy ✅ | [Frequencies of Limited Range Array Elements](https://practice.geeksforgeeks.org/problems/frequency-of-array-elements-1587115620/1#)<br/>[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)<br/>[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day57/FrequenciesOfLimitedRangeArrayElements.java)<br/>[Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day57/JewelsAndStones.java)<br/>[Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/february/day57/IntersectionOfTwoArrays.java) |  |
 | 58 |  27/02/2021 |  |  |  |  |  |
+| 59 |  28/02/2021 |  |  |  |  |  |
