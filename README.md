@@ -85,4 +85,6 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 67 |  08/03/2022 | HashMap | Easy ✅ | [Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) <br/> [Substrings of Size Three with Distinct Characters](https://leetcode.com/problems/substrings-of-size-three-with-distinct-characters/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day67/UniqueNumberOfOccurrences.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day67/SubstringsOfSizeThreeWithDistinctCharacters.java) |  |
 | 68 |  09/03/2022 | HashMap | Easy ✅ | [Distribute Candies](https://leetcode.com/problems/distribute-candies/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day68/DistributeCandies.java) |  |
 | 69 |  10/03/2022 | HashMap | Medium 🟧 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day69/SubarraySumEqualsK.java) |  |
-| 70 |  11/03/2022 |  |  |  |  |  |
+| 70 |  11/03/2022 | HashMap | Medium 🟧 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day70/GroupAnagrams.java) |  |
+| 71 |  12/03/2022 |  |  |  |  |  |
+| 72 |  13/03/2022 |  |  |  |  |  |
