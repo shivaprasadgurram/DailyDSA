@@ -87,4 +87,6 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 69 |  10/03/2022 | HashMap | Medium 🟧 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day69/SubarraySumEqualsK.java) |  |
 | 70 |  11/03/2022 | HashMap | Medium 🟧 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day70/GroupAnagrams.java) |  |
 | 71 |  12/03/2022 | HashMap | Easy ✅ | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day71/RingsAndRods.java) |  |
-| 72 |  13/03/2022 |  |  |  |  |  |
+| 72 |  13/03/2022 | HashMap | Medium 🟧 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day72/ContinuousSubarraySum.java) |  |
+| 73 |  14/03/2022 |  |  |  |  |  |
+| 74 |  15/03/2022 |  |  |  |  |  |
