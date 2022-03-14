@@ -88,5 +88,5 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 70 |  11/03/2022 | HashMap | Medium 🟧 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day70/GroupAnagrams.java) |  |
 | 71 |  12/03/2022 | HashMap | Easy ✅ | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day71/RingsAndRods.java) |  |
 | 72 |  13/03/2022 | HashMap | Medium 🟧 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day72/ContinuousSubarraySum.java) |  |
-| 73 |  14/03/2022 |  |  |  |  |  |
+| 73 |  14/03/2022 | HashMap | Easy ✅ | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day73/RansomNote.java) |  |
 | 74 |  15/03/2022 |  |  |  |  |  |
