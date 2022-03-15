@@ -89,4 +89,6 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 71 |  12/03/2022 | HashMap | Easy ✅ | [Rings and Rods](https://leetcode.com/problems/rings-and-rods/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day71/RingsAndRods.java) |  |
 | 72 |  13/03/2022 | HashMap | Medium 🟧 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day72/ContinuousSubarraySum.java) |  |
 | 73 |  14/03/2022 | HashMap | Easy ✅ | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day73/RansomNote.java) |  |
-| 74 |  15/03/2022 |  |  |  |  |  |
+| 74 |  15/03/2022 | HashMap | Easy ✅ | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day74/UniqueMorseCodeWords.java) |  |
+| 75 |  16/03/2022 |  |  |  |  |  |
+| 76 |  17/03/2022 |  |  |  |  |  |
