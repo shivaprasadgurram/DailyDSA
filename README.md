@@ -101,7 +101,7 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 83 |  24/03/2022 | Busy |  |  |  |  |
 | 84 |  25/03/2022 | Busy |  |  |  |  |
 | 85 |  26/03/2022 | Busy |  |  |  |  |
-| 86 |  27/03/2022 |  |  |  |  |  |
+| 86 |  27/03/2022 | Strings | Medium 🟧,Easy ✅ | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#) <br/> [Permutations of a given string ](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1#) <br/> [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/ReverseWordsInAGivenString.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/PermutationsOfAGivenString.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/RemoveDuplicates.java) |  |
 | 87 |  28/03/2022 |  |  |  |  |  |
 | 88 |  29/03/2022 |  |  |  |  |  |
 | 89 |  30/03/2022 |  |  |  |  |  |
