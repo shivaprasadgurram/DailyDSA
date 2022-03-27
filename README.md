@@ -90,5 +90,19 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 72 |  13/03/2022 | HashMap | Medium 🟧 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day72/ContinuousSubarraySum.java) |  |
 | 73 |  14/03/2022 | HashMap | Easy ✅ | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day73/RansomNote.java) |  |
 | 74 |  15/03/2022 | HashMap | Easy ✅ | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day74/UniqueMorseCodeWords.java) |  |
-| 75 |  16/03/2022 |  |  |  |  |  |
-| 76 |  17/03/2022 |  |  |  |  |  |
+| 75 |  16/03/2022 | On Vacation |  |  |  |  |
+| 76 |  17/03/2022 | On Vacation |  |  |  |  |
+| 77 |  18/03/2022 | On Vacation |  |  |  |  |
+| 78 |  19/03/2022 | On Vacation |  |  |  |  |
+| 79 |  20/03/2022 | On Vacation |  |  |  |  |
+| 80 |  21/03/2022 | Busy |  |  |  |  |
+| 81 |  22/03/2022 | Busy |  |  |  |  |
+| 82 |  23/03/2022 | Busy |  |  |  |  |
+| 83 |  24/03/2022 | Busy |  |  |  |  |
+| 84 |  25/03/2022 | Busy |  |  |  |  |
+| 85 |  26/03/2022 | Busy |  |  |  |  |
+| 86 |  27/03/2022 |  |  |  |  |  |
+| 87 |  28/03/2022 |  |  |  |  |  |
+| 88 |  29/03/2022 |  |  |  |  |  |
+| 89 |  30/03/2022 |  |  |  |  |  |
+| 90 |  31/03/2022 |  |  |  |  |  |
