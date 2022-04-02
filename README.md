@@ -107,7 +107,7 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 89 |  30/03/2022 | Strings | Easy ✅ | [Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day89/SplitAStringInBalancedStrings.java) |  |
 | 90 |  31/03/2022 | Busy |  |  |  |  |
 | 91 |  01/04/2022 | Busy |  |  |  |  |
-| 92 |  02/04/2022 |  |  |  |  |  |
+| 92 |  02/04/2022 | Strings | Medium 🟧,Easy ✅ | [Partition Labels](https://leetcode.com/problems/partition-labels/) <br/> [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/PartitionLabels.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/GenerateAStringWithCharactersThatHaveOddCounts.java) |  |
 | 93 |  03/04/2022 |  |  |  |  |  |
 | 94 |  04/04/2022 |  |  |  |  |  |
 | 95 |  05/04/2022 |  |  |  |  |  |
