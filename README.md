@@ -108,7 +108,7 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 90 |  31/03/2022 | Busy |  |  |  |  |
 | 91 |  01/04/2022 | Busy |  |  |  |  |
 | 92 |  02/04/2022 | Strings | Medium 🟧,Easy ✅ | [Partition Labels](https://leetcode.com/problems/partition-labels/) <br/> [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/PartitionLabels.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/GenerateAStringWithCharactersThatHaveOddCounts.java) |  |
-| 93 |  03/04/2022 |  |  |  |  |  |
+| 93 |  03/04/2022 | Strings | Medium 🟧 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day93/MinimumAddToMakeParenthesesValid.java) |  |
 | 94 |  04/04/2022 |  |  |  |  |  |
 | 95 |  05/04/2022 |  |  |  |  |  |
 | 96 |  06/04/2022 |  |  |  |  |  |
