@@ -92,17 +92,7 @@ Note: Due to some personal reasons, I didn't solve problems for approximately 1 
 | 72 |  13/03/2022 | HashMap | Medium 🟧 | [Continuous Subarray Sum](https://leetcode.com/problems/continuous-subarray-sum/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day72/ContinuousSubarraySum.java) |  |
 | 73 |  14/03/2022 | HashMap | Easy ✅ | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day73/RansomNote.java) |  |
 | 74 |  15/03/2022 | HashMap | Easy ✅ | [Unique Morse Code Words](https://leetcode.com/problems/unique-morse-code-words/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day74/UniqueMorseCodeWords.java) |  |
-| 75 |  16/03/2022 | On Vacation |  |  |  |  |
-| 76 |  17/03/2022 | On Vacation |  |  |  |  |
-| 77 |  18/03/2022 | On Vacation |  |  |  |  |
-| 78 |  19/03/2022 | On Vacation |  |  |  |  |
-| 79 |  20/03/2022 | On Vacation |  |  |  |  |
-| 80 |  21/03/2022 | Busy |  |  |  |  |
-| 81 |  22/03/2022 | Busy |  |  |  |  |
-| 82 |  23/03/2022 | Busy |  |  |  |  |
-| 83 |  24/03/2022 | Busy |  |  |  |  |
-| 84 |  25/03/2022 | Busy |  |  |  |  |
-| 85 |  26/03/2022 | Busy |  |  |  |  |
+| 75 - 86 |  16/03/2022 - 26/03/2022 | On Vacation |  |  |  |  |
 | 86 |  27/03/2022 | Strings | Medium 🟧,Easy ✅ | [Reverse words in a given string](https://practice.geeksforgeeks.org/problems/reverse-words-in-a-given-string5459/1#) <br/> [Permutations of a given string ](https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string2041/1#) <br/> [Remove Duplicates](https://practice.geeksforgeeks.org/problems/remove-duplicates3034/1#) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/ReverseWordsInAGivenString.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/PermutationsOfAGivenString.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day86/RemoveDuplicates.java) |  |
 | 87 |  28/03/2022 | Strings | Easy ✅ | [Shuffle String](https://leetcode.com/problems/shuffle-string/) <br/> [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day87/ShuffleString.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day87/DefangingAnIPAddress2.java) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day87/DefangingAnIPAddress.java) |
 | 88 |  29/03/2022 | Strings | Easy ✅ | [Reverse Prefix of Word](https://leetcode.com/problems/reverse-prefix-of-word/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/march/day88/ReversePrefixOfWord.java) |  |
@@ -111,7 +101,7 @@ Note: Due to some personal reasons, I didn't solve problems for approximately 1 
 | 91 |  01/04/2022 | Busy |  |  |  |  |
 | 92 |  02/04/2022 | Strings | Medium 🟧,Easy ✅ | [Partition Labels](https://leetcode.com/problems/partition-labels/) <br/> [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/PartitionLabels.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/GenerateAStringWithCharactersThatHaveOddCounts.java) |  |
 | 93 |  03/04/2022 | Strings | Medium 🟧 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day93/MinimumAddToMakeParenthesesValid.java) |  |
-| 94 - 122 |  04/04/2022 - 02/05/2022 |  |  |  |  |  |
+| 94 - 122 |  04/04/2022 - 02/05/2022 | Busy |  |  |  |  |
 | 123 |  03/05/2022 |  |  |  |  |  |
 | 124 |  04/05/2022 |  |  |  |  |  |
 | 125 |  05/05/2022 |  |  |  |  |  |
