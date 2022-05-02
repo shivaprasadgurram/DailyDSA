@@ -7,6 +7,8 @@ My solutions are coded in JAVA language.
 
 Challenge started on 1-JAN-2022 🎯 🎯 🎯
 
+Note: Due to some personal reasons, I didn't solve problems for approximately 1 month from 04/04/2022 to 02/05/2022.
+
 # JANUARY 2022
 
 
@@ -109,10 +111,10 @@ Challenge started on 1-JAN-2022 🎯 🎯 🎯
 | 91 |  01/04/2022 | Busy |  |  |  |  |
 | 92 |  02/04/2022 | Strings | Medium 🟧,Easy ✅ | [Partition Labels](https://leetcode.com/problems/partition-labels/) <br/> [Generate a String With Characters That Have Odd Counts](https://leetcode.com/problems/generate-a-string-with-characters-that-have-odd-counts/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/PartitionLabels.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day92/GenerateAStringWithCharactersThatHaveOddCounts.java) |  |
 | 93 |  03/04/2022 | Strings | Medium 🟧 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/april/day93/MinimumAddToMakeParenthesesValid.java) |  |
-| 94 |  04/04/2022 |  |  |  |  |  |
-| 95 |  05/04/2022 |  |  |  |  |  |
-| 96 |  06/04/2022 |  |  |  |  |  |
-| 97 |  07/04/2022 |  |  |  |  |  |
-| 98 |  08/04/2022 |  |  |  |  |  |
-| 99 |  09/04/2022 |  |  |  |  |  |
-| 100 |  10/04/2022 |  |  |  |  |  |
+| 94 - 122 |  04/04/2022 - 02/05/2022 |  |  |  |  |  |
+| 123 |  03/05/2022 |  |  |  |  |  |
+| 124 |  04/05/2022 |  |  |  |  |  |
+| 125 |  05/05/2022 |  |  |  |  |  |
+| 126 |  06/05/2022 |  |  |  |  |  |
+| 127 |  07/05/2022 |  |  |  |  |  |
+| 128 |  08/05/2022 |  |  |  |  |  |
