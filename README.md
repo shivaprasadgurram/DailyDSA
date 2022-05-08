@@ -107,4 +107,6 @@ Note: Due to some personal reasons, I didn't solve problems for approximately 1 
 | 125 |  05/05/2022 | Revision Day 3 | Easy ✅ | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) <br/> [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day125/MergeTwoSortedLists.java) <br/> [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day125/ReverseALinkedList.java) |  |
 | 126 |  06/05/2022 | Revision Day 4 | Easy ✅ | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day126/PalindromeLinkedList.java) |  |
 | 127 |  07/05/2022 | Revision Day 5 |  Easy ✅ | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day127/BestTimeToBuyAndSellAStock.java) |  |
-| 128 |  08/05/2022 |  |  |  |  |  |
+| 128 |  08/05/2022 | Revision Day 6 | Easy ✅ | [Counting Bits](https://leetcode.com/problems/counting-bits/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day128/CountingBits.java) |  |
+| 129 |  09/05/2022 |  |  |  |  |  |
+| 130 |  10/05/2022 |  |  |  |  |  |
