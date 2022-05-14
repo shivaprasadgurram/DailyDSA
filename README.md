@@ -111,4 +111,12 @@ Note: Due to some personal reasons, I didn't solve problems for approximately 1 
 | 129 |  09/05/2022 | Revision Day 7 | Easy ✅ | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day129/MaximumSubarray.java) |  |
 | 130 |  10/05/2022 | Revision Day 8 | Easy ✅ | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day130/ClimbingStairs.java) |  |
 | 131 |  11/05/2022 | Revision Day 9 | Easy ✅ | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Click](https://github.com/shivaprasadgurram/DailyDSA/blob/master/src/com/shivaprasad/may/revision/day131/SearchInsertPosition.java) |  |
-| 132 |  12/05/2022 |  |  |  |  |  |
+| 132 |  12/05/2022 | Not Solved |  |  |  |  |
+| 133 |  13/05/2022 | Not Solved |  |  |  |  |
+| 134 |  14/05/2022 | Not Solved |  |  |  |  |
+| 135 |  15/05/2022 |  |  |  |  |  |
+| 136 |  16/05/2022 |  |  |  |  |  |
+| 137 |  17/05/2022 |  |  |  |  |  |
+| 138 |  18/05/2022 |  |  |  |  |  |
+| 139 |  19/05/2022 |  |  |  |  |  |
+| 140 |  20/05/2022 |  |  |  |  |  |
