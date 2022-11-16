@@ -1,4 +1,4 @@
-# DailyDSA
+# DailyDSA -> Paused updating this repo.
 This repository consists the solutions of daily solved DSA questions from #DailyDSAWithSPG challenge.
 
 Goal: Solve at least one problem in a day to keep away from interview fear, unemployement and to become a good problem solver.
